@@ -3,10 +3,6 @@ class Book
     @title = name
   end
   
-  def title
-    @title
-  end
-  
   def author=(name)
     @author = name
   end
